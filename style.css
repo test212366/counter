@@ -1,0 +1,25 @@
+h1 {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+span {
+	font-size: 40px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.nav {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.nav button {
+	margin-right: 10px;
+}
+.red {
+	color: red;
+}
+.green {
+	color: green;
+}
